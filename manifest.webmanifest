@@ -1,0 +1,15 @@
+{
+    "name": "Cable Conundrum Demo",
+    "short_name": "Cable Conundrum Demo",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#1E1C19",
+    "theme_color": "#000",
+    "description": "Cable Conundrum",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
