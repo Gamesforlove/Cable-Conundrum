@@ -1,9 +1,9 @@
 const cacheName = "Warden Creations-Cable Conundrum Demo-1.5.0 beta demo";
 const contentToCache = [
-    "Build/Web.loader.js",
-    "Build/Web.framework.js.gz",
-    "Build/Web.data.gz",
-    "Build/Web.wasm.gz",
+    "Build/Web Brotli Compression.loader.js",
+    "Build/Web Brotli Compression.framework.js",
+    "Build/Web Brotli Compression.data",
+    "Build/Web Brotli Compression.wasm",
     "TemplateData/style.css"
 
 ];
